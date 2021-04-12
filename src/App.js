@@ -1,14 +1,3 @@
-/*import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-   <div> Hello!
-    </div>
-  );
-}
-
-export default App;*/
 import React, { Fragment } from 'react';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
@@ -41,4 +30,3 @@ function App() {
 }
 
 export default App;
-
